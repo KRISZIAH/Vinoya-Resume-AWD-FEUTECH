@@ -52,6 +52,7 @@
     box-shadow: 5px 5px var(--shadow-color);
     padding: auto;
     margin-top: 100px;
+    
 }
 
 .container .about{
@@ -191,10 +192,9 @@ hr{
 /* For Skills*/
 .skill{
     margin: 20px;
-    margin-top: 7px;
-    margin-bottom: px;
+    margin-top: 1px;
     padding-left: 20px;
-    margin-top: 20px;
+    
 }
 
 .skill h2{
